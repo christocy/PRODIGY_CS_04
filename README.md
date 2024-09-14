@@ -21,7 +21,7 @@ pynput library (install via pip install pynput)
 
 ## Usage
 
-Clone the repository:  git clone https://github.com/your-username/simple-keylogger.git
+Clone the repository:  git clone https://github.com/christocy/PRODIGY_CS_04.git
 
 Navigate to the project directory:  cd simple-keylogger
 
